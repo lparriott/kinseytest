@@ -115,9 +115,9 @@ footer {
     width: 910px;
     margin: 0;
     padding: 10px;
-    background-color: black;
+    background-color:rgb(255, 102, 153) ;
     clear: both;
-    color: wheat;
+    color: white;
     font-weight: bold;
     text-align: center;
 	border-bottom-left-radius: 25px;

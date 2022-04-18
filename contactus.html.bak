@@ -75,7 +75,7 @@
 		</div>
 		
 		
-		<label for="commBox">Tell us more about your experience! </label>
+		<label for="commBox">Let us know what you think! </label>
 		<textarea name="custExp" id="commBox"></textarea/>
 		</label>
 		
@@ -111,7 +111,7 @@
 
 	<p>Kinsey's Homemade Ice Cream<br />
 	608 Main Street &bull; Everest KS 66424<br />
-	<a href = "https://facebook.com" target="_blank">Facebook</a> | <a href = "#">Directions</a> |<a href = "#">Telephone</a> | <a href = "#">Email Us</a></p>
+	<a href = "https://facebook.com" target="_blank">Facebook</a> | <a href = "https://www.google.com/maps/place/Everest,+KS+66424/@39.6772301,-95.4313568,16z/data=!3m1!4b1!4m5!3m4!1s0x87bfc2cff891da0f:0x7b8ee3714cdaa62d!8m2!3d39.6772236!4d-95.4247001">Directions</a> |<a href = "785-741-5091">Telephone</a> | <a href = "kinseyboller01@gmail.com">Email Us</a></p>
 
 </footer>  
 

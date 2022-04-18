@@ -115,7 +115,7 @@ footer {
     width: 910px;
     margin: 0;
     padding: 10px;
-    background-color: rgb(255, 102, 153);
+    background-color: black;
     clear: both;
     color: wheat;
     font-weight: bold;
